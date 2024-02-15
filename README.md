@@ -13,3 +13,6 @@ Please run the 'python dbUpdater.py' in the backend directory. It will update ou
 Backend : 'python manage.py' runserver in backend directory
 <br>
 Frontend : 'yarn start' in frontend directory
+
+
+![SWPP Poster - 복사본 (1)_page-0001](https://github.com/swsnu/swppfall2022-team20/assets/61084897/7664994e-c94a-4e13-a278-848c34160fd0)
